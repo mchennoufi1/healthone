@@ -20,7 +20,7 @@ switch ($params[1]) {
             if (isset($_GET['product_id'])) {
                 $productId = $_GET['product_id'];
                 $product = getProduct($productId);
-                $titleSuffix = ' | Categories' . $product->name;
+                $titleSuffix = ' | ' . $product->name;
                 if(isset($_POST['name']) && isset($_POST['review'])) {
                     saveReview($_POST['name'],$_POST['review']);
                     $reviews=getReviews($productId);
