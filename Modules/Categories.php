@@ -5,7 +5,7 @@ function getCategories()
     
 }
 
-function getCategoryName(int $id)
+function getCategoryName($id)
 {
     
 }

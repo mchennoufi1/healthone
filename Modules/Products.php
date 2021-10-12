@@ -1,11 +1,11 @@
 <?php
 // TODO Zorg dat de methodes goed ingevuld worden met de juiste queries.
-function getProducts(int $categoryId)
+function getProducts($categoryId)
 {
     
 }
 
-function getProduct(int $productId)
+function getProduct($productId)
 {
     
 }
