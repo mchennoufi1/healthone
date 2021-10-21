@@ -17,7 +17,7 @@
                     <a class="nav-link" style="<?php if($page == "categories"){echo "color: black";}?>" href="categories.php">sportapparaat</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" style="<?php if($page == 'inloggen'){echo "color: black";}?>" href="#">registreren</a> 
+                    <a class="nav-link" style="<?php if($page == 'registreren'){echo "color: black";}?>" href="registreren.php">registreren</a> 
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" style="<?php if($page == 'contact'){echo "color: black";}?>" href="contact.php">contact</a>
@@ -25,7 +25,7 @@
             </ul>
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">inloggen</a>
+                    <a class="nav-link" style="<?php if($page == 'inloggen'){echo "color: black";}?>" href="inloggen.php">inloggen</a>
                 </li>
             </ul>
         </div>

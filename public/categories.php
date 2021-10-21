@@ -18,7 +18,7 @@ include_once ('../Templates/defaults/menu.php');
             <div class="col-sm-4 col-md-3">
                 <div class="card">
                     <div class="card-body text-center">
-                        <a href="categories/1">
+                        <a href="roeitrainer.php">
                             <img class="product-img img-responsive center-block" src='img/categories/roeitrainer.jpg'/>
                         </a>
                         <div class="card-title mb-3">Roeitrainer</div>
@@ -29,7 +29,7 @@ include_once ('../Templates/defaults/menu.php');
             <div class="col-sm-4 col-md-3">
                 <div class="card">
                     <div class="card-body text-center">
-                        <a href="categories/2">
+                        <a href="crosstrainer.php">
                             <img class="product-img img-responsive center-block" src='img/categories/crosstrainer.jpg'/>
                         </a>
                         <div class="card-title mb-3">Crosstrainer</div>
@@ -40,7 +40,7 @@ include_once ('../Templates/defaults/menu.php');
             <div class="col-sm-4 col-md-3">
                 <div class="card">
                     <div class="card-body text-center">
-                        <a href="categories/3">
+                        <a href="hometrainer.php">
                             <img class="product-img img-responsive center-block" src='img/categories/hometrainer.jpg'/>
                         </a>
                         <div class="card-title mb-3">Hometrainer</div>
@@ -51,7 +51,7 @@ include_once ('../Templates/defaults/menu.php');
             <div class="col-sm-4 col-md-3">
                 <div class="card">
                     <div class="card-body text-center">
-                        <a href="categories/4">
+                        <a href="loopband.php">
                             <img class="product-img img-responsive center-block" src='img/categories/loopband.jpg'/>
                         </a>
                         <div class="card-title mb-3">Loopband</div>
