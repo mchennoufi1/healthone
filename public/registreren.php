@@ -5,7 +5,7 @@
 
     <div class="container">
         <?php
-            $page = "contact";
+            $page = "registreren";
 
             include_once('../Templates/defaults/header.php');
             include_once('../Templates/defaults/head.php');
